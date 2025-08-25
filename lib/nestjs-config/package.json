@@ -1,0 +1,15 @@
+{
+  "name": "nestjs-config",
+  "version": "1.0.0",
+  "description": "This library was generated with [Nx](https://nx.dev).",
+  "license": "ISC",
+  "author": "nayan",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "@nestjs/config": "^4.0.2",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.2",
+    "cookie-parser": "^1.4.7"
+  }
+}

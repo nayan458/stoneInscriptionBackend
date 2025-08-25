@@ -16,7 +16,8 @@
         "development": {
           "args": ["--node-env=development"]
         }
-      }
+      },
+      "dependsOn": ["^build"]
     },
     "prune-lockfile": {
       "dependsOn": ["build"],

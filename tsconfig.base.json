@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@stone-inscription-backend": ["./"],
       "@stone-inscription-backend/grpc": ["lib/grpc/src/index.ts"],
       "@stone-inscription-backend/nestjs-config": [
         "lib/nestjs-config/src/index.ts"
