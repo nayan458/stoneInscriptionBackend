@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package chat;
+
+service ConversationService {
+    rpc sendMessage(ChatMessageDto) returns (BoolResponse);
+}
+
+message BoolResponse {
+    bool success = 1;
+}
+
+message ChatMessageDto {
+    string useId = 1;
+    string message = 2;
+    string timestamp = 3;
+    string clientId = 4;
+}

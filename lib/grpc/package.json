@@ -1,0 +1,14 @@
+{
+  "name": "grpc",
+  "version": "1.0.0",
+  "description": "This library was generated with [Nx](https://nx.dev).",
+  "license": "ISC",
+  "author": "nayan",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.13.4",
+    "@grpc/proto-loader": "^0.8.0",
+    "ts-proto": "^2.7.7"
+  }
+}
