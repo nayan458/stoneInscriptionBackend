@@ -1,0 +1,13 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "This library was generated with [Nx](https://nx.dev).",
+  "license": "ISC",
+  "author": "nayan",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "@nestjs/mongoose": "^11.0.3",
+    "mongoose": "^8.18.0"
+  }
+}
