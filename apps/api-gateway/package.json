@@ -1,0 +1,9 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "nayan",
+  "type": "commonjs",
+  "main": "webpack.config.js"
+}

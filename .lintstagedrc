@@ -1,0 +1,4 @@
+{
+    "*.ts": ["pnpm dlx nx affected:lint --fix --files"],
+    "*": ["pnpm dlx nx format:write --files"]
+}
