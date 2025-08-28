@@ -5,5 +5,9 @@
   "license": "ISC",
   "author": "nayan",
   "type": "commonjs",
-  "main": "webpack.config.js"
+  "main": "webpack.config.js",
+  "dependencies": {
+    "@types/multer": "^2.0.0",
+    "nestjs-uuid": "^0.1.4"
+  }
 }
