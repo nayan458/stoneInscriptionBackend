@@ -5,3 +5,4 @@ charts/
 /.nx/cache
 /.nx/workspace-data
 test/
+localstack/
